@@ -14,11 +14,11 @@
 - GitHub (version control & collaboration)  
 
 ## For Modders 
-- Custom narrative system
-- Modular gameplay framework
-- Narrative framework for branching storylines
-- Environmental systems for Nobility, Combat, and exploration
-- Documentation for extending or modding
+- **Custom narrative system**
+- **Modular gameplay** framework
+- **Narrative framework** for branching storylines
+- **Environmental systems** for Guild's, Adventuers, Combat, and exploration
+- **Documentation** for extending or modding
 
 ## 🛡️ License
 
