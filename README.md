@@ -13,6 +13,13 @@
 - Blender (3D modeling & animation)  
 - GitHub (version control & collaboration)  
 
+## For Modders 
+- Custom narrative system
+- Modular gameplay framework
+- Narrative framework for branching storylines
+- Environmental systems for Nobility, Combat, and exploration
+- Documentation for extending or modding
+
 ## 🛡️ License
 
 [![License: Proprietary with Modding Allowed](https://img.shields.io/badge/License-Proprietary--Modding--Allowed-blue.svg)](#)
